@@ -171,50 +171,6 @@
 - [الـ Once You've Got The Job](#once-youve-got-the-job)
 
 
-## مصادر اضافية
-- [الـ Additional Books](#additional-books)
-- [الـ Additional Learning](#additional-learning)
-    - [الـ Compilers](#compilers)
-    - [الـ Emacs and vi(m)](#emacs-and-vim)
-    - [الـ Unix command line tools](#unix-command-line-tools)
-    - [الـ Information theory](#information-theory-videos)
-    - [الـ Parity & Hamming Code](#parity--hamming-code-videos)
-    - [الـ Entropy](#entropy)
-    - [الـ Cryptography](#cryptography)
-    - [الـ Compression](#compression)
-    - [الـ Computer Security](#computer-security)
-    - [الـ Garbage collection](#garbage-collection)
-    - [الـ Parallel Programming](#parallel-programming)
-    - [الـ Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
-    - [الـ A*](#a)
-    - [الـ Fast Fourier Transform](#fast-fourier-transform)
-    - [الـ Bloom Filter](#bloom-filter)
-    - [الـ HyperLogLog](#hyperloglog)
-    - [الـ Locality-Sensitive Hashing](#locality-sensitive-hashing)
-    - [الـ van Emde Boas Trees](#van-emde-boas-trees)
-    - [الـ Augmented Data Structures](#augmented-data-structures)
-    - [الـ Balanced search trees](#balanced-search-trees)
-        - الـ AVL trees
-        - الـ Splay trees
-        - الـ Red/black trees
-        - الـ 2-3 search trees
-        - الـ 2-3-4 Trees (aka 2-4 trees)
-        - الـ N-ary (K-ary, M-ary) trees
-        - الـ B-Trees
-    - [الـ k-D Trees](#k-d-trees)
-    - [الـ Skip lists](#skip-lists)
-    - [الـ Network Flows](#network-flows)
-    - [الـ Disjoint Sets & Union Find](#disjoint-sets--union-find)
-    - [الـ Math for Fast Processing](#math-for-fast-processing)
-    - [الـ Treap](#treap)
-    - [الـ Linear Programming](#linear-programming-videos)
-    - [الـ Geometry, Convex hull](#geometry-convex-hull-videos)
-    - [الـ Discrete math](#discrete-math)
-    - [الـ Machine Learning](#machine-learning)
-- [الـ Additional Detail on Some Subjects](#additional-detail-on-some-subjects)
-- [الـ Video Series](#video-series)
-- [الـ Computer Science Courses](#computer-science-courses)
-- [الـ Papers](#papers)
 
 
 	
